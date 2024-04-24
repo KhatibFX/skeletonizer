@@ -16,7 +16,7 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  collection: ^1.18.0
+  collection: ^1.16.0
   flutter:
     sdk: flutter
 
@@ -25,8 +25,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_lints: ^3.0.1
-  alchemist: 0.7.0
+  flutter_lints: ^2.0.0
+  alchemist: 0.5.0
 
 
 flutter:
